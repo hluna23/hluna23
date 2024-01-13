@@ -11,7 +11,13 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
   ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png)
 - Desenvolvimento com Python
   
-![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+  Interface Gráfica com Tkinter
+  
+  Desenvolvimento de Jogos com Pygame
+
+   ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+
+
 
 ## Contato
 
