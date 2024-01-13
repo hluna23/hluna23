@@ -1,18 +1,21 @@
-### Hi there 👋
+# Olá, eu sou Henry Luna! 👋
 
-<!--
-**hluna23/hluna23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo/a ao meu espaço no GitHub! Sou um Desenvolvedor Frontend em transição de carreira 
 
-Here are some ideas to get you started:
+para o desenvolvimento completo, apaixonado por criar experiências web surpreendentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Habilidades
 
+- Desenvolvimento Frontend com HTML, CSS, JS, React
+- ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png)
+- Desenvolvimento Backend com Python
+- 
+![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+
+## Contato
+
+Você pode me encontrar nas seguintes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/henry-luna-0793402a/)
+- [Twitter](https://twitter.com/HlunaDev23)
 
