@@ -22,7 +22,7 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
 ## Contato
 
 Você pode me encontrar nas seguintes plataformas:
-
+<a href="https://www.linkedin.com/in/henry-luna-0793402a/" target="_blank"><img src="https://iconos8.es/icon/13930/linkedin" target="_blank"></a>
 - [LinkedIn](https://www.linkedin.com/in/henry-luna-0793402a/)
 - [Twitter](https://twitter.com/HlunaDev23)
 
