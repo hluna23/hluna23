@@ -11,9 +11,9 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
   ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
 
 -- ##Framework
-   ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png)
 
-  ![next.js Logo](https://iconos8.es/icon/yUdJlcKanVbh/next.js) 
+
+   ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png) ![next.js Logo](https://img.iconos8.es/icon/yUdJlcKanVbh/next.js) 
 - Desenvolvimento com Python
   
   Interface Gráfica com Tkinter
