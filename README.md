@@ -25,11 +25,10 @@ Você pode me encontrar nas seguintes plataformas:
 
 <div> 
   <a href="https://www.linkedin.com/in/henry-luna-0793402a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/gustavo-henrique-de-paula-74b089142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ 	<a href="https://twitter.com/HlunaDev23" target="_blank"><img src="https://img.shields.io/twitter/follow/:user target="_blank"></a>
 </div>
 
-<a href="https://www.linkedin.com/in/henry-luna-0793402a/" target="_blank"><img src="https://iconos8.es/icon/13930/linkedin" target="_blank"></a>
-- [LinkedIn](https://www.linkedin.com/in/henry-luna-0793402a/)
+
+- 
 - [Twitter](https://twitter.com/HlunaDev23)
 
