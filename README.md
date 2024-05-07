@@ -14,19 +14,17 @@ Conecte-se comigo e descubramos juntos as infinitas possibilidades que esta nova
 
 como Dato Relevante sou bilingue, Falo espanhol, naci na Venezuela e falo Portugues mono no brasil 
 
-## Tecnologias e Habilidades
+## Tecnologias 
 
-- Desenvolvimento Frontend com HTML, CSS, JS, React
-  
-  ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
+
+  ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
 
 -Framework
 
    ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png) 
    
-- Desenvolvimento com Python
-   ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
-  
+- librerias de  Python
+   
   Interface Gráfica com Tkinter
   
   Desenvolvimento de Jogos com Pygame
