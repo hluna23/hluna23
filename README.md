@@ -19,6 +19,8 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
 
 
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hluna23&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
+
 ## Contato
 
 Você pode me encontrar nas seguintes plataformas:
@@ -29,6 +31,4 @@ Você pode me encontrar nas seguintes plataformas:
 </div>
 
 
-- 
-- [Twitter](https://twitter.com/HlunaDev23)
 
