@@ -12,7 +12,7 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
 
 -Framework
 
-   ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png) ![next.js Logo](https://icons8.com/icon/yUdJlcKanVbh/next.js) 
+   ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png) ![nextjs Logo](https://icons8.com/icon/yUdJlcKanVbh/next.js) 
    
 - Desenvolvimento com Python
   
