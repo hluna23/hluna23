@@ -18,7 +18,7 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
    ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
 
 
-![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=hluna23&show_icons=true&theme=dark)
+![1910gstv's GitHub stats](https://github-readme.app/api?username=hluna23&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hluna23&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
 
 ## Contato
