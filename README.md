@@ -8,7 +8,7 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
 
 - Desenvolvimento Frontend com HTML, CSS, JS, React
   
-  ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png)
+  ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![React Logo](https://img.icons8.com/ultraviolet/40/000000/react.png)  ![next.js Logo](https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png)
 - Desenvolvimento com Python
   
   Interface Gráfica com Tkinter
