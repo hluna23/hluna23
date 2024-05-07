@@ -17,8 +17,7 @@ para o desenvolvimento completo, apaixonado por criar experiências web surpreen
 
    ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
 
-![1910gstv's GitHub stats](https://github-readme-stats.vercel.app/api?username=1910gstv&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1910gstv&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
+
 
 ## Contato
 
